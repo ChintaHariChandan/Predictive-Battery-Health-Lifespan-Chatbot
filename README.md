@@ -19,7 +19,6 @@ This project aims to:
 
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
 **Source:** [EVIoT-PredictiveMaint Dataset – Kaggle](https://www.kaggle.com/)  
-*(Search for “EVIoT Predictive Maintenance EV Battery Dataset”)*  
 
 **Description:**
 | Parameter | Details |
