@@ -29,12 +29,11 @@ This project aims to:
 | Purpose | Predict battery health, lifespan, and provide contextual tips |
 | Format | CSV |
 
-🧑‍💻 Author
-Chinta Harichandan
-Electronics and Communication Engineering, IIITDM Kancheepuram
-Passionate about Generative AI.
-📧 Contact: harichandan130505@gmail.com \\
-🌐 GitHub: https://github.com/ChintaHariChandan
+### 👤 Author    
+Chinta Harichandan    
+📧 Email: harichandan130505@gmail.com  
+🔗 LinkedIn Profile: https://www.linkedin.com/in/harichandan-chinta-210451346  
+📂 GitHub: https://github.com/ChintaHariChandan  
 
 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
