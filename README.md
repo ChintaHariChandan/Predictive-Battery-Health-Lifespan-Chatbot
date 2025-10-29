@@ -19,7 +19,6 @@ This project aims to:
 
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
 **Source:** [EVIoT-PredictiveMaint Dataset – Kaggle](https://www.kaggle.com/)  
-*(Search for “EVIoT Predictive Maintenance EV Battery Dataset”)*  
 
 **Description:**
 | Parameter | Details |
@@ -34,7 +33,7 @@ This project aims to:
 Chinta Harichandan
 Electronics and Communication Engineering, IIITDM Kancheepuram
 Passionate about Generative AI.
-📧 Contact: harichandan130505@gmail.com
+📧 Contact: harichandan130505@gmail.com \\
 🌐 GitHub: https://github.com/ChintaHariChandan
 
 📜 License
