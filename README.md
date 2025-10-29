@@ -18,7 +18,7 @@ This project aims to:
 ---
 
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
-**Source:** [EVIoT-PredictiveMaint Dataset – Kaggle]([https://www.kaggle.com/datasets/datasetengineer/eviot-predictivemaint-dataset?select=EV_Predictive_Maintenance_Dataset_15min.csv])  
+**Source:** [EVIoT-PredictiveMaint Dataset – Kaggle](https://www.kaggle.com/datasets/datasetengineer/eviot-predictivemaint-dataset?select=EV_Predictive_Maintenance_Dataset_15min.csv)  
 
 **Description:**
 | Parameter | Details |
