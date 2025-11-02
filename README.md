@@ -11,7 +11,7 @@ It combines **predictive machine learning models** with a **Generative AI chatbo
 Battery degradation is one of the key challenges in electric mobility.  
 Traditional Battery Management Systems (BMS) monitor parameters but **lack predictive intelligence and user interpretability**.  
 This project aims to:
-- Predict **battery lifespan and health degradation** using machine learning.
+- Predict **health degradation** using machine learning.
 - Provide **personalized conversational insights** through a Generative AI chatbot.
 - Promote **sustainable EV usage** by helping users optimize charging and driving habits.
 
@@ -20,7 +20,14 @@ This project aims to:
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
 **Source:** [EV_battery_charging_data Dataset – Kaggle](https://www.kaggle.com/datasets/ziya07/ev-battery-charging-data)  
 
-
+| Feature | Description |
+|:--|:--|
+| **Charging Duration (min)** | Total charging time in minutes |
+| **Efficiency (%)** | Energy transfer efficiency during charging |
+| **SOC (%)** | State of Charge — the current battery charge percentage |
+| **Battery Temp (°C)** | Battery temperature during operation |
+| **Optimal Charging Duration Class** | Categorized charging behavior (Optimal / Non-Optimal) |
+| **Degradation Rate (%)** | Target variable representing the rate of battery degradation |
 
 ## 👤 Author    
 Chinta Harichandan    
