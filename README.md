@@ -18,16 +18,9 @@ This project aims to:
 ---
 
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
-**Source:** [EVIoT-PredictiveMaint Dataset – Kaggle](https://www.kaggle.com/datasets/datasetengineer/eviot-predictivemaint-dataset?select=EV_Predictive_Maintenance_Dataset_15min.csv)  
+**Source:** [EV_battery_charging_data Dataset – Kaggle]([https://www.kaggle.com/datasets/ziya07/ev-battery-charging-data])  
 
-**Description:**
-| Parameter | Details |
-|------------|----------|
-| Records | 175,000+ |
-| Type | Time-series telemetry data |
-| Features | Voltage, Current, Temperature, SoC, SoH, Ambient Conditions, Failure Indicators |
-| Purpose | Predict battery health, lifespan, and provide contextual tips |
-| Format | CSV |
+
 
 ## 👤 Author    
 Chinta Harichandan    
