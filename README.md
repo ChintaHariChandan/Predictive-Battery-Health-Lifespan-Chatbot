@@ -18,7 +18,7 @@ This project aims to:
 ---
 
 ## 📊 Dataset — EVIoT-PredictiveMaint (Kaggle)
-**Source:** [EV_battery_charging_data Dataset – Kaggle]([https://www.kaggle.com/datasets/ziya07/ev-battery-charging-data])  
+**Source:** [EV_battery_charging_data Dataset – Kaggle](https://www.kaggle.com/datasets/ziya07/ev-battery-charging-data)  
 
 
 
