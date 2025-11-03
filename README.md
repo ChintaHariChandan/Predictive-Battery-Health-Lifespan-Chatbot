@@ -2,8 +2,16 @@
 *A Generative AI + Machine Learning System for Intelligent EV Battery Management*
 
 ## 🧠 Overview
-The **Predictive Battery Degradation Chatbot** is an AI-powered assistant that predicts Electric Vehicle (EV) battery **Degradation Rate (%)** based on real-world telemetry data.
-It combines **predictive machine learning models** with a **Generative AI chatbot** to deliver human-like explanations, personalized tips, and actionable insights for better battery maintenance.
+
+The **Predictive Battery Degradation Chatbot** is an **AI-powered assistant** designed to forecast Electric Vehicle (EV) battery **Degradation Rate (%)** using **real-world telemetry data**.  
+
+It seamlessly integrates **Predictive Machine Learning Models** with a **Generative AI Chatbot** to provide:  
+- 🤖 **Human-like explanations** of battery health and degradation patterns  
+- ⚡ **Personalized tips** to extend battery lifespan  
+- 🔍 **Actionable insights** for proactive maintenance and performance optimization  
+
+This fusion of **ML + Generative AI** empowers users with both accurate predictions and intuitive guidance — making EV battery management smarter and more efficient.
+
 ---
 
 ## 🌍 Project Motivation
