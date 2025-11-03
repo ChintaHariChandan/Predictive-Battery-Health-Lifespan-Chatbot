@@ -1,10 +1,9 @@
-# Predictive-Battery-Health-Lifespan-Chatbot
+# Predictive-Battery-Degradation-Chatbot
 *A Generative AI + Machine Learning System for Intelligent EV Battery Management*
 
 ## 🧠 Overview
-The **Predictive Battery Health & Lifespan Chatbot** is an AI-powered assistant that predicts Electric Vehicle (EV) battery **State of Health (SoH)**, **Remaining Useful Life (RUL)**, and **failure likelihood** based on real-world telemetry data.  
+The **Predictive Battery Degradation Chatbot** is an AI-powered assistant that predicts Electric Vehicle (EV) battery **Degradation Rate (%)** based on real-world telemetry data.
 It combines **predictive machine learning models** with a **Generative AI chatbot** to deliver human-like explanations, personalized tips, and actionable insights for better battery maintenance.
-
 ---
 
 ## 🌍 Project Motivation
