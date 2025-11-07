@@ -49,7 +49,42 @@ Steps performed before model training:
    - 80% training and 20% testing ratio for evaluation.
 
 ---
+## 🤖 Machine Learning Model
+A **Random Forest Regressor** was implemented due to its robustness and ability to capture nonlinear feature relationships.
 
+### **Model Configuration**
+RandomForestRegressor(
+    n_estimators=200,
+    random_state=42
+)
+
+## 🤖 Evaluation Metrics
+| Metric | Description | Result |
+|:--|:--|:--|
+| **R² Score** | Proportion of variance explained by the model | 0.9934 |
+| **MSE** | Mean Squared Error — average squared prediction error | 0.0426 |
+| **MAE** | Mean Absolute Error — average absolute prediction error | 0.1587
+| **Z- Score** | Measures deviation of residuals | 0.8218
+
+### 🔍 Feature Importance Analysis
+
+| Rank | Feature                      | Importance | Insight                                      |
+|------|------------------------------|-------------|----------------------------------------------|
+|1️⃣  | Charging Duration (min)      | 0.78        | Long charge duration increases degradation   |
+| 2️⃣  | SOC (%)                      | 0.21        | Higher SOC mildly increases degradation      |
+| 3️⃣  | Battery Temp (°C)            | 0.0075      | Temperature affects chemical stability       |
+| 4️⃣  | Optimal Charging Duration Class | 0.0016   | Minimal influence                            |
+
+### 🔍 Results Summary
+
+- **R² Score:** 0.9934 → Indicates strong predictive accuracy.  
+- **MSE / MAE:** Extremely low values, confirming excellent generalization.  
+- **Model Performance:** Demonstrates high consistency between predicted and actual degradation rates.  
+- **Physical Insights:**  
+  - Longer charging durations accelerate battery degradation.  
+  - Higher SOC levels contribute moderately to degradation.  
+  - Battery temperature has a minor but noticeable effect on chemical stability.  
+  - Optimal charging class shows minimal influence on degradation behavior. 
 
 ### 🛠️ Tech Stack
 
