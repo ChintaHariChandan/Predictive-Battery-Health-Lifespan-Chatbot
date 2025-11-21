@@ -136,7 +136,7 @@ The chatbot extends the ML model into an interactive interface powered by **Groq
 
 ## 🎯 Conclusion
 
-The project successfully developed a *Machine Learning–powered EV Battery Degradation Prediction System, enabling accurate estimation of battery health using key operational parameters such as **charging duration, **State of Charge (SoC), and **thermal behavior*.
+The project successfully developed a *Machine Learning–powered EV Battery Degradation Prediction System, enabling accurate estimation of battery health using key operational parameters such as **charging duration, **State of Charge (SoC)**, and **thermal behavior**.
 
 A *Random Forest Regression* model was trained after rigorous data preprocessing, achieving reliable prediction performance for battery degradation rate — helping support *preventive maintenance* and *extended battery lifespan*.
 
